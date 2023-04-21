@@ -1,1 +1,3 @@
-
+interface Lib{
+    key:string
+}
